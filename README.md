@@ -2,10 +2,7 @@
 Calculator Internsavy Internship Task
 # ITS DEVELOPED USING JAVA PROGRAMMING LANGUAGE USING NETBEANS IDE UNDER LINUX OS
 
-# InternSavy_Task5_Calculator
-Internsavy Internship Task
-# ITS DEVELOPED USING JAVA PROGRAMMING LANGUAGE USING NETBEANS IDE UNDER LINUX OS
-ava project that appears to be a simple calculator application with a graphical user interface (GUI). 
+A Java project that appears to be a simple calculator application with a graphical user interface (GUI). 
 Here's a brief overview of the project:
 
 Calculator Class (Main Class):
